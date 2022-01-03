@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(3, 0, 185, 0.295);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+h1 {
+    background-color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+}
+
+h1#principal {
+    text-align: center;
+    color: rgb(161, 236, 158);
+}
+
+h1#personalizado {
+    text-align: right;
+}
+
+h2 {
+    color: darkblue;
+}
+p {
+    text-indent: 20px;
+}
