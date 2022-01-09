@@ -1,9 +1,0 @@
-@charset "UFT-8 ";
-
-@font-face {
-    font-family: 'fonts';
-    src: url(fontes/fonts/idroid.otf) format(opentype);
-}
- header > h1 {
-     font-family: 'fonts';
- }
